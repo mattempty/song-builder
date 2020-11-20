@@ -1,0 +1,268 @@
+{
+  "_id": "page.song",
+  "_type": "page.content",
+  "body": "",
+  "components": [
+    {
+      "_id": "page.song--content--0",
+      "_type": "content",
+      "html": "Verse"
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.song--content--1",
+      "_type": "content",
+      "html": "There's a loving in your eyes all the way\r\nIf I listen to your lies, would you say\r\nI'm a man (a man) without conviction\r\nI'm a man (a man) who doesn't know\r\nHow to sell (to sell) a contradiction\r\nYou come and go, you come and go",
+      "show": {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "verse1_contradiction"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.song--content--2",
+      "_type": "content",
+      "html": "Clock strikes upon the hour\r\nAnd the sun begins to fade\r\nStill enough time to figure out\r\nHow to chase my blues away\r\nI've done alright up to now\r\nIt's the light of day that shows me how\r\nAnd when the night falls, loneliness calls",
+      "show": {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "verse1_loneliness"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.song--content--3",
+      "_type": "content",
+      "html": "If you see a faded sign at the side of the road that says\r\nFifteen miles to the, love shack, love shack yeah\r\nI'm headin' down the Atlanta highway\r\nLookin' for the love getaway\r\nHeaded for the love getaway, love getaway\r\nI got me a car, it's as big as a whale\r\nAnd we're headin' on down to the love shack\r\nI got me a Chrysler, it seats about twenty\r\nSo hurry up and bring your jukebox money",
+      "show": {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "verse1_jukebox"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.song--content--4",
+      "_type": "content",
+      "html": "Won't you come see about me?\r\nI'll be alone, dancing, you know it, baby\r\nTell me your troubles and doubts\r\nGive them everything, inside and out and\r\nLove's strange, so real in the dark\r\nThink of the tender things that we were working on\r\nSlow change may pull us apart\r\nWhen the light gets into your heart, baby",
+      "show": {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "verse1_change"
+      }
+    },
+    {
+      "_id": "page.song--content--5",
+      "_type": "content",
+      "html": "Chorus"
+    },
+    {
+      "_id": "page.song--content--6",
+      "_type": "content",
+      "html": "Oh, I wanna dance with somebody\r\nI wanna feel the heat with somebody\r\nYeah, I wanna dance with somebody\r\nWith somebody who loves me\r\nOh, I wanna dance with somebody\r\nI wanna feel the heat with somebody\r\nYeah, I wanna dance with somebody\r\nWith somebody who loves me",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_somebody"
+      }
+    },
+    {
+      "_id": "page.song--content--7",
+      "_type": "content",
+      "html": "Wake me up before you go-go\r\nDon't leave me hanging on like a yo-yo\r\nWake me up before you go-go\r\nI don't want to miss it when you hit that high\r\nWake me up before you go-go\r\nCause I'm not plannin' on going solo\r\nWake me up before you go-go\r\nTake me dancing tonight\r\nI wanna hit that high (yeah, yeah)",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_dancing"
+      }
+    },
+    {
+      "_id": "page.song--content--8",
+      "_type": "content",
+      "html": "Woah, we're half way there\r\nWoah, livin' on a prayer\r\nTake my hand, we'll make it I swear\r\nWoah, livin' on a prayer",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_swear"
+      }
+    },
+    {
+      "_id": "page.song--content--9",
+      "_type": "content",
+      "html": "All night long (all night), All night (all night)\r\nAll night long (all night), All night (all night)\r\nAll night long (all night), All night (all night)\r\nAll night long! (all night), Ooh, yeah (all night)",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_night"
+      }
+    },
+    {
+      "_id": "page.song--content--10",
+      "_type": "content",
+      "html": "Verse"
+    },
+    {
+      "_id": "page.song--content--11",
+      "_type": "content",
+      "html": "They're Out To Get You, Better Leave While You Can\r\nDon't Wanna Be A Boy, You Wanna Be A Man\r\nYou Wanna Stay Alive, Better Do What You Can\r\nSo Beat It, Just Beat It\r\n\r\nYou Have To Show Them That You're Really Not Scared\r\nYou're Playin' With Your Life, This Ain't No Truth Or Dare\r\nThey'll Kick You, Then They Beat You,\r\nThen They'll Tell You It's Fair\r\nSo Beat It, But You Wanna Be Bad",
+      "show": {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "verse2_leave"
+      }
+    },
+    {
+      "_id": "page.song--content--12",
+      "_type": "content",
+      "html": "Party hats\r\nSimple enough clear\r\nComprehend savvy understand\r\nDo you hear?\r\nA pack of party hats\r\nWith the colored tips\r\nToo late!\r\nGorgon's heard gossip\r\nWell hello Joe, hello Miss Clay\r\nMany happy returns from the day",
+      "show": {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "verse2_party"
+      }
+    },
+    {
+      "_id": "page.song--content--13",
+      "_type": "content",
+      "html": "People dancing all in the street\r\nSee the rhythm all in their feet\r\nLife is good, wild and sweet\r\nLet the music play on...(Play on, play on, play on...)\r\nFeel it in your heart and feel it in your soul\r\nLet the music take control\r\nWe're going to Party, Liming, Fiesta, forever\r\nCome on and sing along\r\nWe're going to Party, Liming, Fiesta, forever\r\nCome on and sing my song!",
+      "show": {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "verse2_forever"
+      }
+    },
+    {
+      "_id": "page.song--content--14",
+      "_type": "content",
+      "html": "Some boys romance\r\nSome boys slow dance\r\nThat's all right with me\r\nIf they can't raise my interest then I\r\nHave to let them be\r\nSome boys try and some boys lie but\r\nI don't let them play (no way)\r\nOnly boys who save their pennies\r\nMake my rainy day",
+      "show": {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "verse2_interest"
+      }
+    },
+    {
+      "_id": "page.song--content--15",
+      "_type": "content",
+      "html": "Chorus"
+    },
+    {
+      "_id": "page.song--content--16",
+      "_type": "content",
+      "html": "Oh, I wanna dance with somebody\r\nI wanna feel the heat with somebody\r\nYeah, I wanna dance with somebody\r\nWith somebody who loves me\r\nOh, I wanna dance with somebody\r\nI wanna feel the heat with somebody\r\nYeah, I wanna dance with somebody\r\nWith somebody who loves me",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_somebody"
+      }
+    },
+    {
+      "_id": "page.song--content--17",
+      "_type": "content",
+      "html": "Wake me up before you go-go\r\nDon't leave me hanging on like a yo-yo\r\nWake me up before you go-go\r\nI don't want to miss it when you hit that high\r\nWake me up before you go-go\r\nCause I'm not plannin' on going solo\r\nWake me up before you go-go\r\nTake me dancing tonight\r\nI wanna hit that high (yeah, yeah)",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_dancing"
+      }
+    },
+    {
+      "_id": "page.song--content--18",
+      "_type": "content",
+      "html": "Woah, we're half way there\r\nWoah, livin' on a prayer\r\nTake my hand, we'll make it I swear\r\nWoah, livin' on a prayer",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_swear"
+      }
+    },
+    {
+      "_id": "page.song--content--19",
+      "_type": "content",
+      "html": "All night long (all night), All night (all night)\r\nAll night long (all night), All night (all night)\r\nAll night long (all night), All night (all night)\r\nAll night long! (all night), Ooh, yeah (all night)",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_night"
+      }
+    },
+    {
+      "_id": "page.song--content--20",
+      "_type": "content",
+      "html": "Bridge"
+    },
+    {
+      "_id": "page.song--content--21",
+      "_type": "content",
+      "html": "Hold your head up, keep your head up, (Movin' on)\r\nHold your head up, (Movin' on), keep your head up, (Movin' on)\r\nHold your head up, (Movin' on), keep your head up, (Movin' on)\r\nHold your head up, (Movin' on), keep your head up"
+    },
+    {
+      "_id": "page.song--content--22",
+      "_type": "content"
+    },
+    {
+      "_id": "page.song--content--23",
+      "_type": "content"
+    },
+    {
+      "_id": "page.song--content--24",
+      "_type": "content"
+    },
+    {
+      "_id": "page.song--content--25",
+      "_type": "content",
+      "html": "Chorus"
+    },
+    {
+      "_id": "page.song--content--26",
+      "_type": "content",
+      "html": "Oh, I wanna dance with somebody\r\nI wanna feel the heat with somebody\r\nYeah, I wanna dance with somebody\r\nWith somebody who loves me\r\nOh, I wanna dance with somebody\r\nI wanna feel the heat with somebody\r\nYeah, I wanna dance with somebody\r\nWith somebody who loves me",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_somebody"
+      }
+    },
+    {
+      "_id": "page.song--content--27",
+      "_type": "content",
+      "html": "Wake me up before you go-go\r\nDon't leave me hanging on like a yo-yo\r\nWake me up before you go-go\r\nI don't want to miss it when you hit that high\r\nWake me up before you go-go\r\nCause I'm not plannin' on going solo\r\nWake me up before you go-go\r\nTake me dancing tonight\r\nI wanna hit that high (yeah, yeah)",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_dancing"
+      }
+    },
+    {
+      "_id": "page.song--content--28",
+      "_type": "content",
+      "html": "Woah, we're half way there\r\nWoah, livin' on a prayer\r\nTake my hand, we'll make it I swear\r\nWoah, livin' on a prayer",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_swear"
+      }
+    },
+    {
+      "_id": "page.song--content--29",
+      "_type": "content",
+      "html": "All night long (all night), All night (all night)\r\nAll night long (all night), All night (all night)\r\nAll night long (all night), All night (all night)\r\nAll night long! (all night), Ooh, yeah (all night)",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "chorus_night"
+      }
+    }
+  ],
+  "heading": "Your Song",
+  "url": "song"
+}

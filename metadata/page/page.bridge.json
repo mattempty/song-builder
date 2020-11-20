@@ -1,0 +1,39 @@
+{
+  "_id": "page.bridge",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.bridge--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.bridge--radios.auto_name__3--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Mind",
+          "value": "bridge_mind"
+        },
+        {
+          "_id": "page.bridge--radios.auto_name__3--radio.auto_value__7",
+          "_type": "radio",
+          "label": "Movin' On",
+          "value": "bridge_movin"
+        },
+        {
+          "_id": "page.bridge--radios.auto_name__3--radio.auto_value__8",
+          "_type": "radio",
+          "label": "Fun",
+          "value": "bridge_fun"
+        },
+        {
+          "_id": "page.bridge--radios.auto_name__3--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Louder",
+          "value": "bridge_louder"
+        }
+      ],
+      "legend": "Select word for the Bridge",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "bridge"
+}

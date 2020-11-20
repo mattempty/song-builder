@@ -1,0 +1,52 @@
+{
+  "_id": "page.one",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.one--radios.auto_name__1",
+      "_type": "radios",
+      "hint": "Select a word for the first verse.",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.one--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Contradiction",
+          "value": "verse1_contradiction"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.one--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Loneliness",
+          "value": "verse1_loneliness"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.one--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Jukebox",
+          "value": "verse1_jukebox"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.one--radios.auto_name__1--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Change",
+          "value": "verse1_change"
+        }
+      ],
+      "legend": "First Verse",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "first"
+}

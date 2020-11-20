@@ -1,0 +1,39 @@
+{
+  "_id": "page.chorus",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.chorus--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.chorus--radios.auto_name__4--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Somebody",
+          "value": "chorus_somebody"
+        },
+        {
+          "_id": "page.chorus--radios.auto_name__4--radio.auto_value__6--2",
+          "_type": "radio",
+          "label": "Dancing",
+          "value": "chorus_dancing"
+        },
+        {
+          "_id": "page.chorus--radios.auto_name__4--radio.auto_value__6--3",
+          "_type": "radio",
+          "label": "Swear",
+          "value": "chorus_swear"
+        },
+        {
+          "_id": "page.chorus--radios.auto_name__4--radio.auto_value__6--4",
+          "_type": "radio",
+          "label": "Night",
+          "value": "chorus_night"
+        }
+      ],
+      "legend": "Select your Chorus word",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "chorus"
+}

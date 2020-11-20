@@ -1,0 +1,40 @@
+{
+  "_id": "page.second",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.second--radios.auto_name__2",
+      "_type": "radios",
+      "hint": "Select a word for the second verse.",
+      "items": [
+        {
+          "_id": "page.second--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Leave",
+          "value": "verse2_leave"
+        },
+        {
+          "_id": "page.second--radios.auto_name__2--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Party",
+          "value": "verse2_party"
+        },
+        {
+          "_id": "page.second--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Forever",
+          "value": "verse2_forever"
+        },
+        {
+          "_id": "page.second--radios.auto_name__2--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Interest",
+          "value": "verse2_interest"
+        }
+      ],
+      "legend": "Second verse",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "second"
+}
