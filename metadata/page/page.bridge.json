@@ -5,6 +5,7 @@
     {
       "_id": "page.bridge--radios.auto_name__3",
       "_type": "radios",
+      "hint": "Select a word for the bridge",
       "items": [
         {
           "_id": "page.bridge--radios.auto_name__3--radio.auto_value__6",
@@ -31,7 +32,7 @@
           "value": "bridge_louder"
         }
       ],
-      "legend": "Select word for the Bridge",
+      "legend": "Bridge",
       "name": "auto_name__3"
     }
   ],

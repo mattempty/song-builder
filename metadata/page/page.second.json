@@ -16,8 +16,8 @@
         {
           "_id": "page.second--radios.auto_name__2--radio.auto_value__2",
           "_type": "radio",
-          "label": "Party",
-          "value": "verse2_party"
+          "label": "Frightened",
+          "value": "verse2_frightened"
         },
         {
           "_id": "page.second--radios.auto_name__2--radio.auto_value__3",
