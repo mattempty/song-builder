@@ -1,0 +1,50 @@
+{
+  "_id": "page.music",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.music--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.music--radios.auto_name__5--radio.auto_value__1",
+          "_type": "radio",
+          "label": "in the shower",
+          "value": "shower"
+        },
+        {
+          "_id": "page.music--radios.auto_name__5--radio.auto_value__2",
+          "_type": "radio",
+          "label": "on a walk",
+          "value": "walk"
+        },
+        {
+          "_id": "page.music--radios.auto_name__5--radio.auto_value__3",
+          "_type": "radio",
+          "label": "doing house renovations",
+          "value": "house"
+        },
+        {
+          "_id": "page.music--radios.auto_name__5--radio.auto_value__4",
+          "_type": "radio",
+          "label": "designing excellent content for government services",
+          "value": "content"
+        },
+        {
+          "_id": "page.music--radios.auto_name__5--radio.auto_value__5",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.music--radios.auto_name__5--radio.auto_value__5--text.auto_name__6",
+            "_type": "text",
+            "name": "other_text"
+          },
+          "label": "other",
+          "value": "other"
+        }
+      ],
+      "legend": "I like to listen to when I am...",
+      "name": "when"
+    }
+  ],
+  "url": "music"
+}

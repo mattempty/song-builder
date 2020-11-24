@@ -4,6 +4,30 @@
   "body": "",
   "components": [
     {
+      "_id": "page.song--content__100",
+      "_type": "content",
+      "html": "**Lyrics to the song you play when you {when} when a coffee**",
+      "show": {
+        "identifier": "when",
+        "negated": true,
+        "operator": "is",
+        "value": "other"
+      }
+    },
+    {
+      "_id": "page.song--content--101",
+      "_type": "content",
+      "html": "**Lyrics to the song you play when you {other_text} with a coffee**",
+      "show": {
+        "identifier": "when",
+        "operator": "is",
+        "value": "other"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--0",
       "_type": "content",
       "html": "**Verse**"
@@ -61,11 +85,17 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--5",
       "_type": "content",
       "html": "**Chorus**"
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--6",
       "_type": "content",
       "html": "Oh, I wanna dance with somebody \\\r\nI wanna feel the heat with somebody \\\r\nYeah, I wanna dance with somebody \\\r\nWith somebody who loves me \\\r\nOh, I wanna dance with somebody \\\r\nI wanna feel the heat with somebody \\\r\nYeah, I wanna dance with somebody \\\r\nWith somebody who loves me",
@@ -76,6 +106,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--7",
       "_type": "content",
       "html": "Wake me up before you go-go \\\r\nDon't leave me hanging on like a yo-yo \\\r\nWake me up before you go-go \\\r\nI don't want to miss it when you hit that high \\\r\nWake me up before you go-go \\\r\nCause I'm not plannin' on going solo \\\r\nWake me up before you go-go \\\r\nTake me dancing tonight \\\r\nI wanna hit that high (yeah, yeah)",
@@ -86,6 +119,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--8",
       "_type": "content",
       "html": "Woah, we're half way there \\\r\nWoah, livin' on a prayer \\\r\nTake my hand, we'll make it I swear \\\r\nWoah, livin' on a prayer ",
@@ -96,6 +132,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--9",
       "_type": "content",
       "html": "All night long (all night), All night (all night) \\\r\nAll night long (all night), All night (all night) \\\r\nAll night long (all night), All night (all night) \\\r\nAll night long! (all night), Ooh, yeah (all night)",
@@ -106,11 +145,17 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--10",
       "_type": "content",
       "html": "**Verse**"
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--11",
       "_type": "content",
       "html": "They're Out To Get You, Better Leave While You Can \\\r\nDon't Wanna Be A Boy, You Wanna Be A Man \\\r\nYou Wanna Stay Alive, Better Do What You Can \\\r\nSo Beat It, Just Beat It \r\n\r\nYou Have To Show Them That You're Really Not Scared \\\r\nYou're Playin' With Your Life, This Ain't No Truth Or Dare \\\r\nThey'll Kick You, Then They Beat You, \\\r\nThen They'll Tell You It's Fair \\\r\nSo Beat It, But You Wanna Be Bad ",
@@ -121,6 +166,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--12",
       "_type": "content",
       "html": "The wild dogs cry out in the night \\\r\nAs they grow restless, longing for some solitary company \\\r\nI know that I must do what's right \\\r\nAs sure as Kilimanjaro rises like Olympus above the Serengeti \\\r\nI seek to cure what's deep inside, frightened of this thing that I've become",
@@ -131,6 +179,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--13",
       "_type": "content",
       "html": "People dancing all in the street \\\r\nSee the rhythm all in their feet \\\r\nLife is good, wild and sweet \\\r\nLet the music play on...(Play on, play on, play on...) \\\r\nFeel it in your heart and feel it in your soul \\\r\nLet the music take control \\\r\nWe're going to Party, Liming, Fiesta, forever \\\r\nCome on and sing along \\\r\nWe're going to Party, Liming, Fiesta, forever \\\r\nCome on and sing my song! ",
@@ -141,6 +192,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--14",
       "_type": "content",
       "html": "Some boys romance \\\r\nSome boys slow dance \\\r\nThat's all right with me \\\r\nIf they can't raise my interest then I \\\r\nHave to let them be \\\r\nSome boys try and some boys lie but \\\r\nI don't let them play (no way) \\\r\nOnly boys who save their pennies \\\r\nMake my rainy day",
@@ -151,11 +205,17 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--15",
       "_type": "content",
       "html": "**Chorus**"
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--16",
       "_type": "content",
       "html": "Oh, I wanna dance with somebody \\\r\nI wanna feel the heat with somebody \\\r\nYeah, I wanna dance with somebody \\\r\nWith somebody who loves me \\\r\nOh, I wanna dance with somebody \\\r\nI wanna feel the heat with somebody \\\r\nYeah, I wanna dance with somebody \\\r\nWith somebody who loves me",
@@ -166,6 +226,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--17",
       "_type": "content",
       "html": "Wake me up before you go-go \\\r\nDon't leave me hanging on like a yo-yo \\\r\nWake me up before you go-go \\\r\nI don't want to miss it when you hit that high \\\r\nWake me up before you go-go \\\r\nCause I'm not plannin' on going solo \\\r\nWake me up before you go-go \\\r\nTake me dancing tonight \\\r\nI wanna hit that high (yeah, yeah)",
@@ -176,6 +239,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--18",
       "_type": "content",
       "html": "Woah, we're half way there \\\r\nWoah, livin' on a prayer \\\r\nTake my hand, we'll make it I swear \\\r\nWoah, livin' on a prayer",
@@ -186,6 +252,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--19",
       "_type": "content",
       "html": "All night long (all night), All night (all night) \\\r\nAll night long (all night), All night (all night) \\\r\nAll night long (all night), All night (all night) \\\r\nAll night long! (all night), Ooh, yeah (all night)",
@@ -196,11 +265,17 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--20",
       "_type": "content",
       "html": "**Bridge**"
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--21",
       "_type": "content",
       "html": "Hold your head up, keep your head up, (Movin' on) \\\r\nHold your head up, (Movin' on), keep your head up, (Movin' on) \\\r\nHold your head up, (Movin' on), keep your head up, (Movin' on) \\\r\nHold your head up, (Movin' on), keep your head up",
@@ -211,6 +286,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--22",
       "_type": "content",
       "html": "Girls, they want, wanna have fun \\\r\nGirls, wanna have",
@@ -221,6 +299,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--23",
       "_type": "content",
       "html": "Bang bang bang on the door baby, knock a little louder \\\r\nBang bang on the door baby, bang bang! \\ \r\nOn the door baby, bang bang! \\\r\nOn the door, bang bang! \\\r\nOn the door baby, bang bang!",
@@ -231,6 +312,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--24",
       "_type": "content",
       "html": "And I've made up my mind \\\r\nOoh baby, ain't wasting no more time",
@@ -241,11 +325,17 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--25",
       "_type": "content",
       "html": "**Chorus**"
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--26",
       "_type": "content",
       "html": "Oh, I wanna dance with somebody \\\r\nI wanna feel the heat with somebody \\\r\nYeah, I wanna dance with somebody \\\r\nWith somebody who loves me \\\r\nOh, I wanna dance with somebody \\\r\nI wanna feel the heat with somebody \\\r\nYeah, I wanna dance with somebody \\\r\nWith somebody who loves me",
@@ -256,6 +346,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--27",
       "_type": "content",
       "html": "Wake me up before you go-go \\\r\nDon't leave me hanging on like a yo-yo \\\r\nWake me up before you go-go \\\r\nI don't want to miss it when you hit that high \\\r\nWake me up before you go-go \\\r\nCause I'm not plannin' on going solo \\\r\nWake me up before you go-go \\\r\nTake me dancing tonight \\\r\nI wanna hit that high (yeah, yeah)",
@@ -266,6 +359,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--28",
       "_type": "content",
       "html": "Woah, we're half way there \\\r\nWoah, livin' on a prayer \\\r\nTake my hand, we'll make it I swear \\\r\nWoah, livin' on a prayer",
@@ -276,6 +372,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.song--content--29",
       "_type": "content",
       "html": "All night long (all night), All night (all night) \\\r\nAll night long (all night), All night (all night) \\\r\nAll night long (all night), All night (all night) \\\r\nAll night long! (all night), Ooh, yeah (all night)",

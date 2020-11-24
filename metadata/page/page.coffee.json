@@ -1,0 +1,39 @@
+{
+  "_id": "page.coffee",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.coffee--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.coffee--radios.auto_name__5--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Black",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.coffee--radios.auto_name__5--radio.auto_value__2",
+          "_type": "radio",
+          "label": "White",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.coffee--radios.auto_name__5--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Hipster'ish",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.coffee--radios.auto_name__5--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Don't mind, as long as it's coffee",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "How do you like your coffee?",
+      "name": "auto_name__5"
+    }
+  ],
+  "url": "coffee"
+}
